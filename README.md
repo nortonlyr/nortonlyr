@@ -1,6 +1,6 @@
 ![Norton_Portfolio](img/norton_portflio.png)
 
-Welcome to Norton's Profile
+<b>Welcome to Norton's Profile<b>
 
 | Project List| 
 | ------ | 
