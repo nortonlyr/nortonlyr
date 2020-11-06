@@ -1,5 +1,7 @@
 ![Norton_Portfolio](img/norton_portflio.png)
 
+Welcome to Norton's Profile
+
 | Project List| 
 | ------ | 
 | [1. Non-Traditional Housing Price Predictor in Philadelphia (Data Group Project) ](#Nontraditional-Housing-Price-Predictor-in-Philadelphia)|
