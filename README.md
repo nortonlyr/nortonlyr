@@ -1,4 +1,4 @@
-![Norton_Portfolio](img/norton_portflio.png)
+![Norton_Portfolio](img/norton_portflio2.png)
 
 <b>Welcome to Norton's Profile<b>
 
