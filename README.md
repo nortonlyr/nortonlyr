@@ -11,7 +11,7 @@
 | [5. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
 | [6. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
 
-### [Nontraditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)   
+### [Non-Traditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)   
 
 - View the group project data visualization report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
