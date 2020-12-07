@@ -16,6 +16,7 @@
 - View the group project data visualization report at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
+- Language: Python
 - Data Collection: Airflow
 - Data Cleaning: Pandas
 - Data Storage: MySQL
@@ -50,6 +51,7 @@
 ---
 ### [Black Jack Game](https://github.com/nortonlyr/PythonFundamentals.Labs.BlackJack)   
   
+- Language: Python
 - Classes
 - Unit Testing
 - OOP
