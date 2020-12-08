@@ -56,6 +56,7 @@
 - Unit Testing
 - OOP
 - Terminal
+- In this project, I applied unit test to verify the module I wrote. 
 
 ![BlackJack_Project](img/blackjack.jpg)
 ---  
