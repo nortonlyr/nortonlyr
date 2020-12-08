@@ -52,7 +52,7 @@
 ### [Black Jack Game](https://github.com/nortonlyr/PythonFundamentals.Labs.BlackJack)   
   
 - Language: Python
-- Classes
+- Class
 - Unit Testing
 - OOP
 - Terminal
