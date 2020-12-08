@@ -30,7 +30,7 @@
 ### [Airflow Pipeline New York City Airbnb Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
 
 - Language: Python
-- Airflow
+- Apache Airflow
 - Pandas
 - MySQL / PostgreSQL
 - Jupyter Notebook Report
