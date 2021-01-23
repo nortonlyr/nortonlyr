@@ -24,6 +24,7 @@
 - Data Visualization: Jupyter Notebook: Matplotlib -> (heatmap), seaborn -> (pairplot, boxplot), plotly -> (3D plot); Tableau Public: dashboard
 
 ![Data_Group_Project](img/DataGroupProject.png)
+![Philly_Housing_Data](img/Philly_Housing_Data.png)
   
 
 ---
