@@ -57,7 +57,7 @@
 - Unit Testing
 - Object Oriented Programming
 - Terminal
-- In this project, I applied unit-test to verify the classes and modules in the Black Jack Application.  
+- In this project, I applied unit-test tool to verify the classes and modules in the Black Jack Application.  
 
 ![BlackJack_Project](img/blackjack.jpg)
 ---  
