@@ -55,9 +55,9 @@
 - Language: Python
 - Class
 - Unit Testing
-- OOP
+- Object Oriented Programming
 - Terminal
-- In this project, I applied unit test to verify the Black Jack classes and modules.  
+- In this project, I applied unit-test to verify the classes and modules in the Black Jack Application.  
 
 ![BlackJack_Project](img/blackjack.jpg)
 ---  
