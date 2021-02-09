@@ -17,7 +17,7 @@
 - [Group Project Cover Page](https://malbt.github.io/ZCW.DataGroupProject/) 
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
 - Language: Python
-- Data Collection: Apache Airflow
+- Data Pipeline and Automation: Apache Airflow
 - Data Cleaning: Pandas
 - Data Storage: MySQL
 - Data Transformation (Join Table): Apache Spark(SQL) - Cluster @ Databricks  
