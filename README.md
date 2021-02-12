@@ -75,7 +75,7 @@
 ---
 ### [Kafka NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
   
-In this repo, kafka is used for tracking the route of the designed buslines. When we run the three different busdata producers python files, you will see three different moving spots in the map.
+In this repo, Apache Kafka is used for tracking the route of the designed buslines. When we run the three different busdata producers python files, you will see three different moving spots in the map.
 
 Environment & tools:
 
