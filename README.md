@@ -89,5 +89,5 @@ Environment & tools:
 ![Kafka_03](img/kafka_pic_03.png)
 ---  
 
-Thank you for visiting
+Thank you for visiting. More projects are coming
   
