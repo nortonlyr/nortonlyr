@@ -20,7 +20,7 @@
 - Data Pipeline and Automation: Apache Airflow
 - Data Cleaning: Pandas
 - Data Storage: MySQL
-- Data Transformation (Join Table): Apache Spark(SQL) - Cluster @ Databricks  
+- Data Transformation (Join Table): Apache Spark (SQL) - Cluster @ Databricks  
 - Data Visualization: Jupyter Notebook: Matplotlib -> (heatmap), seaborn -> (pairplot, boxplot), plotly -> (3D plot), Tableau Public-> dashboard
 
 ![Data_Group_Project](img/DataGroupProject.png)
@@ -33,6 +33,7 @@
 - Language: Python
 - Apache Airflow
 - Pandas
+- Matplotlib
 - MySQL / PostgreSQL
 - Jupyter Notebook Report
 - AWS (S3, EC2, RDS)
