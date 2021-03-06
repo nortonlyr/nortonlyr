@@ -46,7 +46,7 @@
 - Language: R
 - NoSQL Database: MongoDB
 - Visualization Tools: ggplot2, plotly -> (3D plot)
-- In this project (LEGO dataset), I applied both R-Studio and jupyter notebook to import and export data from MongoDB, and then used ggplot2 and plotly to demonstrate the analytical reslut with data visualization, respectively.
+- In this project (LEGO dataset), I applied both R-Studio and jupyter notebook to import and export data from MongoDB, then used ggplot2 and plotly to demonstrate the analytical reslut with data visualization, respectively.
   
 ![Alternative_Data_Engineering_Tool_Reseasrch](img/fig.svg)
 
