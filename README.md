@@ -4,7 +4,7 @@
 
 | Project List| 
 | ------ |
-| [1. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Propery-Sales-(2019-2023)-End-to-End-Data-Pipeline-End2End-Run-Report)|
+| [1. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Open-Data-2025-NYC-Propery-Sales-(2019-2023)-End-to-End-Data-Pipeline-End2End-Run-Report)|
 | [2. Non-Traditional Housing Price Predictor in Philadelphia City (Data Group Project) ](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia)|
 | [3. Airflow Pipeline: New York City Airbnb Home Selection](#Airflow-Pipeline-New-York-City-Airbnb-Home-Selection)|
 | [4. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
