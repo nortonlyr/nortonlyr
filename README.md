@@ -109,4 +109,9 @@ Environment & tools:
 ---  
 
 Thank you for visiting. More projects are coming
+
+## Visitor Count
+<p align="center">
+    <img  src="https://profile-counter.glitch.me/nortonlyr/count.svg" />
+</p>
   
