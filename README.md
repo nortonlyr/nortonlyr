@@ -4,7 +4,7 @@
 
 | Project List| 
 | ------ |
-| [1. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report ](#NYC-Propery-Sales-(2019-2023)-End-to-End-Data-Pipeline-End2End-Run-Report)|
+| [1. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Propery-Sales-(2019-2023)-End-to-End-Data-Pipeline-End2End-Run-Report)|
 | [2. Non-Traditional Housing Price Predictor in Philadelphia City (Data Group Project) ](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia)|
 | [3. Airflow Pipeline: New York City Airbnb Home Selection](#Airflow-Pipeline-New-York-City-Airbnb-Home-Selection)|
 | [4. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
@@ -12,7 +12,25 @@
 | [6. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
 | [7. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
 
-### [Non-Traditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)   
+
+---
+### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report]](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
+
+- Open Data Event link: https://2025.open-data.nyc/event/nyc-resident-housing-property-sale-2019-2023-analysis-and-insight/
+- Platform: Google Colab
+- Language: Python
+- Data Manipulation: Pandas
+- Machine Learning Model Demo: Linear Regression, Random Forest
+- Data Visualization: Jupyter Notebook: seaborn -> (pairplot, boxplot), plotly -> (3D plot)
+
+![open_data_nyc_2025_logo](img/open_data_nyc_2025_logo.png)
+![NYC_Housing_Sales](img/NYC_Housing_Sales.png)
+![nyc_housing_sale_plotly_graph](img/nyc_housing_sale_plotly_graph.png)
+
+
+
+---
+### [Non-Traditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)
 
 - View the data visualization report of group project at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
@@ -25,7 +43,6 @@
 
 ![Data_Group_Project](img/DataGroupProject.png)
 ![Philly_Housing_Data](img/Philly_Housing_Data.png)
-  
 
 ---
 ### [Airflow Pipeline New York City Airbnb Home Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
