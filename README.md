@@ -14,7 +14,7 @@
 
 
 ---
-### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report]](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
+### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
 
 - Open Data Event link: https://2025.open-data.nyc/event/nyc-resident-housing-property-sale-2019-2023-analysis-and-insight/
 - Platform: Google Colab
@@ -25,6 +25,7 @@
 
 ![open_data_nyc_2025_logo](img/open_data_nyc_2025_logo.png)
 ![NYC_Housing_Sales](img/NYC_Housing_Sales.png)
+
 ![nyc_housing_sale_plotly_graph](img/nyc_housing_sale_plotly_graph.png)
 
 
