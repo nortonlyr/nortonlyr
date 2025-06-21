@@ -16,6 +16,7 @@
 ---
 ### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
 
+- Full demo of end-to-end data pipeline automation run
 - Open Data Event link: https://2025.open-data.nyc/event/nyc-resident-housing-property-sale-2019-2023-analysis-and-insight/
 - Platform: Google Colab
 - Language: Python
