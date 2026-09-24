@@ -4,7 +4,7 @@
 
 | Project List| 
 | ------ |
-| [1. NYC Residential Property Sale: Insight, Model Improvement, and AI Integration](#NYC-Residential-Property-Sale-Insight-Model-Improvement-and-AI-Integration)|
+| [1. NYC Open Data 2026: NYC Residential Property Sale: Insight, Model Improvement, and AI Integration](#NYC-Open-Data-2025-NYC-Residential-Property-Sale-Insight-Model-Improvement-and-AI-Integration)|
 | [2. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Open-Data-2025-NYC-Propery-Sales-2019-2023-End-to-End-Data-Pipeline-End2End-Run-Report)|
 | [3. Non-Traditional Housing Price Predictor in Philadelphia City (Data Group Project)](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia)|
 | [4. Airflow Pipeline: New York City Airbnb Home Selection](#Airflow-Pipeline-New-York-City-Airbnb-Home-Selection)|
@@ -15,7 +15,7 @@
 
 
 ---
-### [NYC Residential Property Sale: Insight, Model Improvement, and AI Integration](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
+### [NYC Open Data 2026: NYC Residential Property Sale (2019-2024): Insight, Model Improvement, and AI Integration](https://github.com/nortonlyr/NYC_OPEN_DATA_2026)
 
 - Extended from the NYC property sales analysis project
 - Focus on deeper insights, stronger predictive modeling, and AI-driven enhancements
@@ -24,6 +24,9 @@
 - Machine Learning: Linear Regression, Random Forest, model tuning
 - AI Integration: LLM-assisted analysis, automation, and insight generation
 - Data Visualization: Jupyter Notebook, seaborn, plotly
+
+![open_data_nyc_2026_logo](img/OPW_2026.jpg)
+![NYC_Housing_Sales_2026](img/NYC_OPW_ProjectFlowChart_2026.jpeg)
 
 ---
 ### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
