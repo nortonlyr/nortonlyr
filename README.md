@@ -4,14 +4,26 @@
 
 | Project List| 
 | ------ |
-| [1. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Open-Data-2025-NYC-Propery-Sales-2019-2023-End-to-End-Data-Pipeline-End2End-Run-Report)|
-| [2. Non-Traditional Housing Price Predictor in Philadelphia City (Data Group Project)](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia)|
-| [3. Airflow Pipeline: New York City Airbnb Home Selection](#Airflow-Pipeline-New-York-City-Airbnb-Home-Selection)|
-| [4. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
-| [5. Black Jack Game](#Black-Jack-Game)|
-| [6. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
-| [7. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
+| [1. NYC Residential Property Sale: Insight, Model Improvement, and AI Integration](#NYC-Residential-Property-Sale-Insight-Model-Improvement-and-AI-Integration)|
+| [2. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Open-Data-2025-NYC-Propery-Sales-2019-2023-End-to-End-Data-Pipeline-End2End-Run-Report)|
+| [3. Non-Traditional Housing Price Predictor in Philadelphia City (Data Group Project)](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia)|
+| [4. Airflow Pipeline: New York City Airbnb Home Selection](#Airflow-Pipeline-New-York-City-Airbnb-Home-Selection)|
+| [5. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
+| [6. Black Jack Game](#Black-Jack-Game)|
+| [7. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
+| [8. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
 
+
+---
+### [NYC Residential Property Sale: Insight, Model Improvement, and AI Integration](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
+
+- Extended from the NYC property sales analysis project
+- Focus on deeper insights, stronger predictive modeling, and AI-driven enhancements
+- Language: Python
+- Data Analysis: Pandas, NumPy
+- Machine Learning: Linear Regression, Random Forest, model tuning
+- AI Integration: LLM-assisted analysis, automation, and insight generation
+- Data Visualization: Jupyter Notebook, seaborn, plotly
 
 ---
 ### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
