@@ -15,8 +15,9 @@
 
 
 ---
-### [NYC Open Data 2026: NYC Residential Property Sale (2019-2024): Insight, Model Improvement, and AI Integration](https://github.com/nortonlyr/NYC_OPEN_DATA_2026)
+### NYC Open Data 2026: NYC Residential Property Sale (2019-2024): Insight, Model Improvement, and AI Integration
 
+- Project repo: https://github.com/nortonlyr/NYC_OPEN_DATA_2026
 - Extended from the NYC property sales analysis project
 - Focus on deeper insights, stronger predictive modeling, and AI-driven enhancements
 - Language: Python
@@ -29,8 +30,9 @@
 ![NYC_Housing_Sales_2026](img/NYC_OPW_ProjectFlowChart_2026.jpeg)
 
 ---
-### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
+### NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report
 
+- Project repo: https://github.com/nortonlyr/NYC_OPEN_DATA_2025
 - Full demo of end-to-end data pipeline automation run
 - Open Data Event link: https://2025.open-data.nyc/event/nyc-resident-housing-property-sale-2019-2023-analysis-and-insight/
 - Platform: Google Colab
@@ -46,8 +48,9 @@
 
 
 ---
-### [Non-Traditional Housing Price Predictor in Philadelphia](https://github.com/nortonlyr/ZCW.DataGroupProject)
+### Non-Traditional Housing Price Predictor in Philadelphia
 
+- Project repo: https://github.com/nortonlyr/ZCW.DataGroupProject
 - View the data visualization report of group project at (https://app.luminpdf.com/viewer/5ecc6da18124240012ae0885)
 - [Tableau Dashboard for Philadelphia House Price Data Visualization](https://public.tableau.com/profile/norton.li#!/vizhome/Philly_House_Vis_Dashboard/Dashboard1?publish=yes)
 - Language: Python
@@ -61,8 +64,9 @@
 ![Philly_Housing_Data](img/Philly_Housing_Data.png)
 
 ---
-### [Airflow Pipeline New York City Airbnb Home Selection](https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject)
+### Airflow Pipeline New York City Airbnb Home Selection
 
+- Project repo: https://github.com/nortonlyr/DataEngineering.Labs.AirflowProject
 - Language: Python
 - Apache Airflow
 - Pandas
@@ -74,8 +78,9 @@
 ![Airflow_Project](img/airflow_flow_chart.png)
 
 ---
-### [Alternative Data Engineering Tools Research](https://github.com/nortonlyr/Week9-ResearchProjects)  
+### Alternative Data Engineering Tools Research
 
+- Project repo: https://github.com/nortonlyr/Week9-ResearchProjects
 - Language: R
 - NoSQL Database: MongoDB
 - Visualization Tools: ggplot2, plotly -> (3D plot)
@@ -84,8 +89,9 @@
 ![Alternative_Data_Engineering_Tool_Reseasrch](img/fig.svg)
 
 ---
-### [Black Jack Game](https://github.com/nortonlyr/PythonFundamentals.Labs.BlackJack)   
-  
+### Black Jack Game
+
+- Project repo: https://github.com/nortonlyr/PythonFundamentals.Labs.BlackJack
 - Language: Python
 - Class
 - Unit Testing
@@ -97,8 +103,9 @@
 ---  
 
 ---
-### [Tableau Public Data Visualization](https://public.tableau.com/profile/norton.li#!/)   
-  
+### Tableau Public Data Visualization
+
+- Project site: https://public.tableau.com/profile/norton.li#!/
 - [Social Media Top 10 (05/19 - 05/20)](https://public.tableau.com/profile/norton.li#!/vizhome/Social_Media_19to20_Vis01/Social_Media_19to20_Vis_01)
 
 - [US Museums Data](https://public.tableau.com/profile/norton.li#!/vizhome/US_Museums_Dashboard/US_Museum_Dashboard)
@@ -107,8 +114,10 @@
 ---  
 
 ---
-### [Kafka NYC Bus Live Map](https://github.com/nortonlyr/Kafka_Live_Map)   
-  
+### Kafka NYC Bus Live Map
+
+- Project repo: https://github.com/nortonlyr/Kafka_Live_Map
+
 In this repo, Apache Kafka is used for tracking the route of the designed buslines. When we run the three different busdata producers python files, you will see three different moving spots in the map.
 
 Environment & tools:
