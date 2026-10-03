@@ -4,14 +4,14 @@
 
 | Project List| 
 | ------ |
-| [1. NYC Open Data 2026: NYC Residential Property Sale (2019-2024): Insight, Model Improvement, and AI Integration](#NYC-Open-Data-2025-NYC-Residential-Property-Sale-Insight-Model-Improvement-and-AI-Integration)|
-| [2. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#NYC-Open-Data-2025-NYC-Propery-Sales-2019-2023-End-to-End-Data-Pipeline-End2End-Run-Report)|
-| [3. Non-Traditional Housing Price Predictor in Philadelphia](#Non-Traditional-Housing-Price-Predictor-in-Philadelphia)|
-| [4. Airflow Pipeline: New York City Airbnb Home Selection](#Airflow-Pipeline-New-York-City-Airbnb-Home-Selection)|
-| [5. Alternative Data Engineering Tools Research](#Alternative-Data-Engineering-Tools-Research)|
-| [6. Black Jack Game](#Black-Jack-Game)|
-| [7. Tableau Public Data Visualization](#Tableau-Public-Data-Visualization)|
-| [8. Kafka: NYC Bus Live Map](#Kafka-NYC-Bus-Live-Map)|
+| [1. NYC Open Data 2026: NYC Residential Property Sale (2019-2024): Insight, Model Improvement, and AI Integration](#nyc-open-data-2026-nyc-residential-property-sale-2019-2024-insight-model-improvement-and-ai-integration)|
+| [2. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#nyc-open-data-2025-nyc-propery-sales-2019-2023-end-to-end-data-pipeline-end2end-run-report)|
+| [3. Non-Traditional Housing Price Predictor in Philadelphia](#non-traditional-housing-price-predictor-in-philadelphia)|
+| [4. Airflow Pipeline: New York City Airbnb Home Selection](#airflow-pipeline-new-york-city-airbnb-home-selection)|
+| [5. Alternative Data Engineering Tools Research](#alternative-data-engineering-tools-research)|
+| [6. Black Jack Game](#black-jack-game)|
+| [7. Tableau Public Data Visualization](#tableau-public-data-visualization)|
+| [8. Kafka: NYC Bus Live Map](#kafka-nyc-bus-live-map)|
 
 
 ---
