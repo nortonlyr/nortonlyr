@@ -127,6 +127,6 @@ Thank you for visiting. More projects are coming
 
 ## Visitor Count
 <p align="center">
-    <img  src="https://profile-counter.glitch.me/nortonlyr/count.svg" />
+    <img src="https://hits.sh/github.com/nortonlyr.svg?label=visitors&color=brightgreen&style=flat-square" alt="Visitor count" />
 </p>
   
