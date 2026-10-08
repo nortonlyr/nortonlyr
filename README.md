@@ -1,4 +1,4 @@
-![Norton_Portfolio](img/norton_portflio7.png)
+![Norton_Portfolio](img/From_Raw_Data_to_Insight.webp)
 
 <b>Welcome to Norton's Data World<b>
 
