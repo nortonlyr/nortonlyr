@@ -5,7 +5,7 @@
 | Project List| 
 | ------ |
 | [1. NYC Open Data 2026: NYC Residential Property Sale (2019-2024): Insight, Model Improvement, and AI Integration](#nyc-open-data-2026-nyc-residential-property-sale-2019-2024-insight-model-improvement-and-ai-integration)|
-| [2. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](#nyc-open-data-2025-nyc-propery-sales-2019-2023-end-to-end-data-pipeline-end2end-run-report)|
+| [2. NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline Run Report](#nyc-open-data-2025-nyc-propery-sales-2019-2023-end-to-end-data-pipeline-run-report)|
 | [3. Non-Traditional Housing Price Predictor in Philadelphia](#non-traditional-housing-price-predictor-in-philadelphia)|
 | [4. Airflow Pipeline: New York City Airbnb Home Selection](#airflow-pipeline-new-york-city-airbnb-home-selection)|
 | [5. Alternative Data Engineering Tools Research](#alternative-data-engineering-tools-research)|
@@ -29,7 +29,7 @@
 ![NYC_Housing_Sales_2026](img/NYC_OPW_ProjectFlowChart_2026.jpeg)
 
 ---
-### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline End2End Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
+### [NYC Open Data 2025: NYC Propery Sales (2019-2023) End to End Data Pipeline Run Report](https://github.com/nortonlyr/NYC_OPEN_DATA_2025)
 
 - Full demo of end-to-end data pipeline automation run
 - Open Data Event link: https://2025.open-data.nyc/event/nyc-resident-housing-property-sale-2019-2023-analysis-and-insight/
